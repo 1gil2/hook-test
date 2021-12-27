@@ -10,3 +10,4 @@ print(new2)
 
 a = 1123
 b = 123
+c = a - b
