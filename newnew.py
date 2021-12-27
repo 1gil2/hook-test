@@ -9,3 +9,4 @@ print(new2)
 print(new2)
 
 a = 1123
+b = 123
