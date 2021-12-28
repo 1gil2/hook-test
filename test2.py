@@ -6,3 +6,5 @@ a = inf
 b = inf
 
 c = a - b
+
+d = 2 * c
