@@ -14,3 +14,6 @@ c = a - b
 d = a + b + c
 
 print(a)
+
+w = 'w'
+o = 'o'
