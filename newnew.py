@@ -17,5 +17,3 @@ print(a)
 
 w = 'w'
 o = 'o'
-
-wo = w + o
