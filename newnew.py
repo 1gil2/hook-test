@@ -17,3 +17,4 @@ print(a)
 
 w = 'w'
 o = 'o'
+w2 = w+w
