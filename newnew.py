@@ -18,3 +18,4 @@ print(a)
 w = 'w'
 o = 'o'
 w2 = w+w
+w3 = w*3
