@@ -22,3 +22,4 @@ w3 = w + w + w
 
 webhook = 'webhook'
 feature = 'f'
+update = 'update'
