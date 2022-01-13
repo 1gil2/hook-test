@@ -12,3 +12,5 @@ commit6 = 'commit6'
 commit7 = 'commit7'
 commit8 = 'commit8'
 commit9 = 'commit9'
+
+rebase = 'rebase'
