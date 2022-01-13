@@ -1,1 +1,1 @@
-snapshot = 'snapshot'
+snap = 'snap'
