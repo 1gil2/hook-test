@@ -8,3 +8,4 @@ commit5 = 'commit5'
 commit6 = 'commit6'
 
 force = 'force'
+push = 'push'
